@@ -1,8 +1,6 @@
 # bounty_domains
-public and private bug bounty programs from different sources
+File websites.txt contain a list of URLs that points to a bug bounty program or VDP.
 
-source of d1.txt file is https://github.com/projectdiscovery/public-bugbounty-programs
-source of d2.txt file is websites.txt.
+I have collectd that by searshing this dorks on google https://raw.githubusercontent.com/sushiwushi/bug-bounty-dorks/master/dorks.txt.
 
-
-i collect websites.txt file from google with some dorks.
+Most of them are self hosted programs and not hosted on any platform.
