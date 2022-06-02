@@ -5,7 +5,7 @@ I have collectd that by searshing this dorks on google https://raw.githubusercon
 
 Most of them are self hosted programs and not hosted on any platform.
 
-
+Note that maybe you found a not valid links.
 
 
 
