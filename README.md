@@ -6,11 +6,3 @@ I have collectd that by searshing this dorks on google https://raw.githubusercon
 Most of them are self hosted programs and not hosted on any platform.
 
 Note that maybe you found a not valid links.
-
-
-
-
-
-
-
-<a href="https://www.buymeacoffee.com/ahmedbasiony" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
